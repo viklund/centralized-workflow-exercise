@@ -2,7 +2,8 @@
 
 # centralized-workflow-exercise
 
-Exercise to practice collaborative centralized workflow.
+Exercise to practice collaborative centralized workflow. On the way to a pull request
+and code review we will meet and discuss a number of typical pitfalls.
 
 
 ## Before we start
