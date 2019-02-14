@@ -19,12 +19,12 @@ and code review we will meet and discuss a number of typical pitfalls.
 
 If you have set up ssh keys:
 ```
-$ git clone git@github.com:coderefinery/centralized-workflow-exercise.git
+$ git clone git@github.com:viklund/centralized-workflow-exercise.git
 ```
 
 If you have not set up ssh keys:
 ```
-$ git clone https://github.com/coderefinery/centralized-workflow-exercise.git
+$ git clone https://github.com/viklund/centralized-workflow-exercise.git
 ```
 
 
